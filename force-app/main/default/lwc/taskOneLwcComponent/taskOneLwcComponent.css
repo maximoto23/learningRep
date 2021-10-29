@@ -1,0 +1,10 @@
+.container {
+    width: 200px;
+    margin: 0 auto;
+}
+
+p {
+    color: azure;
+    font-size: 30px;
+    text-align: center;
+}
